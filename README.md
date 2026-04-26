@@ -6,7 +6,7 @@ Setup Guide:
 ------------
 
 1.  Download the APWorld and unzip it.
-2.  Place the contents (folder MadeInAbyssBSFD) into your archipelago installation.
+2.  Place the contents of APWorld into your archipelago installation.
         The file path should be: Archipelago/lib/worlds/MadeInAbyssBSFD
 3.  Next place the folder Win64 inside your Made in Abyss installation.
         The file path should be: MadeInAbyss-BSFD\MadeInAbyss-BSFD\Binaries\Win64
