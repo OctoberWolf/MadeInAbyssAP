@@ -11,7 +11,7 @@ Setup Guide:
 3.  Next place the folder Win64 inside your Made in Abyss installation.
         Default path for steam should be C:\Program Files (x86)\Steam\steamapps\common\MadeInAbyss-BSFD\MadeInAbyss-BSFD\Binaries\Win64
         **Replace files in destination**
-5.  The Mod is now set up!
+4.  This mod is only for the Deep in Abyss Gamemode
 
 ---------------------------
 Connecting to a Multiworld:
