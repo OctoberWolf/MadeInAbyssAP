@@ -18,7 +18,7 @@ Connecting to a Multiworld:
 ---------------------------
 1.  navigate inside the mod folder to here: Win64\Mods\BSFDArchiMod and run the file: AP_BSFDLauncher.exe
 2.  It should open a launcher for the mod
-3.  Now input your Port into the server slot at the top left of the UI, it should be something like archipelago.gg:12345
+3.  Now input your address and port into the server slot at the top left of the UI, it should be something like archipelago.gg:12345
 4.  Input your slot into the username box, it should be something like Player1
 5.  If a password is set you can enter it here as well
 6.  The game directory should be automatically detected, but if it isn't double check that everything is setup right
