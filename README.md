@@ -21,9 +21,9 @@ Connecting to a Multiworld:
 3.  Now input your address and port into the server slot at the top left of the UI, it should be something like archipelago.gg:12345
 4.  Input your slot into the username box, it should be something like Player1
 5.  If a password is set you can enter it here as well
-6.  The game directory should be automatically detected, but if it isn't double check that everything is setup right
-         You can also Register the game and select the file: MadeInAbyss-Win64-Shipping.exe, in the win64 folder
-7.  Launch the game from the launcher, start a new game, and when you load into a file it should automatically connect.
+6.  The game directory should be automatically detected, but if it isn't, double check that everything is setup correctly
+           You can also Register the game and select the file: MadeInAbyss-Win64-Shipping.exe, in the win64 folder
+8.  Launch the game from the launcher, start a new game, and when you load into a file it should automatically connect.
           If not you can try pressing the connect button manually, but you must be in-game and have control of your character to connect.
 
 ------------
