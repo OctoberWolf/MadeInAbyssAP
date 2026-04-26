@@ -22,7 +22,7 @@ Connecting to a Multiworld:
 4.  Input your slot into the username box, it should be something like Player1
 5.  If a password is set you can enter it here as well
 6.  The game directory should be automatically detected, but if it isn't, double check that everything is setup correctly
-           You can also Register the game and select the file: **(x86)\Steam\steamapps\common\MadeInAbyss-BSFD\MadeInAbyss-BSFD\Binaries\Win64\MadeInAbyss-Win64-Shipping.exe**, in the win64 folder
+           You can also Register the game and select the file: **(x86)\Steam\steamapps\common\MadeInAbyss-BSFD\MadeInAbyss-BSFD\Binaries\Win64\MadeInAbyss-Win64-Shipping.exe**
 7.  Launch the game from the launcher, start a new game, and when you load into a file it should automatically connect
           If not you can try pressing the connect button manually, but __*you must be in-game and have control of your character to connect*__
 
