@@ -24,7 +24,7 @@ Connecting to a Multiworld:
 6.  The game directory should be automatically detected, but if it isn't, double check that everything is setup correctly
            You can also Register the game and select the file: MadeInAbyss-Win64-Shipping.exe, in the win64 folder
 8.  Launch the game from the launcher, start a new game, and when you load into a file it should automatically connect.
-          If not you can try pressing the connect button manually, but __you must be in-game and have control of your character to connect__.
+          If not you can try pressing the connect button manually, but __*you must be in-game and have control of your character to connect*__.
 
 ------------
 Extra Info:
