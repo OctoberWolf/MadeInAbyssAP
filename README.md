@@ -9,9 +9,9 @@ Setup Guide:
 2.  Place the contents of APWorld into your archipelago installation.
         The file path should be: Archipelago/lib/worlds/MadeInAbyssBSFD
 3.  Next place the folder Win64 inside your Made in Abyss installation.
-        The file path should be: MadeInAbyss-BSFD\MadeInAbyss-BSFD\Binaries\Win64
+           The file path should be: MadeInAbyss-BSFD\MadeInAbyss-BSFD\Binaries\Win64
         Default path for steam should be C:\Program Files (x86)\Steam\steamapps\common\MadeInAbyss-BSFD\MadeInAbyss-BSFD\Binaries\Win64
-4.  The Mod is now set up!
+5.  The Mod is now set up!
 
 ---------------------------
 Connecting to a Multiworld:
