@@ -5,7 +5,7 @@ Archipelago mod for Made In Abyss Binary Star Falling into Darkness
 Setup Guide:
 ------------
 
-1.  **Download** the APWorld and unzip it.
+1.  Download the APWorld and unzip it.
 2.  Place the contents of APWorld into your archipelago installation.
         The file path should be: Archipelago/lib/worlds/MadeInAbyssBSFD
 3.  Next place the folder Win64 inside your Made in Abyss installation.
@@ -24,7 +24,7 @@ Connecting to a Multiworld:
 6.  The game directory should be automatically detected, but if it isn't, double check that everything is setup correctly
            You can also Register the game and select the file: MadeInAbyss-Win64-Shipping.exe, in the win64 folder
 8.  Launch the game from the launcher, start a new game, and when you load into a file it should automatically connect.
-          If not you can try pressing the connect button manually, but you must be in-game and have control of your character to connect.
+          If not you can try pressing the connect button manually, but **you must be in-game and have control of your character to connect**.
 
 ------------
 Extra Info:
